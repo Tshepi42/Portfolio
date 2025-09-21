@@ -59,7 +59,7 @@ This project developed my skills in:
 - Managing and validating user data within constraints.
 
 ## How to Run
-1. Open the `CardlessService.xlsm` file in Microsoft Excel.
+1. Open the `VBA_Cardless_Service.xlsm` file in Microsoft Excel.
 2. Enable macros when prompted.
 3. Use the buttons on the sheet to launch the application.
 
@@ -99,6 +99,6 @@ This complex project involved:
 - Building an intuitive one-button interface for a complex backend process.
 
 ## How to Run
-1. Open the `WaterOptimization.xlsm` file in Microsoft Excel.
+1. Open the `VBACommunity_WaterPipeSystem.xlsm` file in Microsoft Excel.
 2. Enable macros.
 3. Click the "Optimise" button on the "Data" worksheet to run the model.
