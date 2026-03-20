@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-//See McMillan p 286
+
 public class Graph<T> where T:IComparable
 {
     #region Embedded class for vertices
