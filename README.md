@@ -2,13 +2,12 @@
 
 ## Projects
 
-### Credit Card Fraud Detection-Python
+### Fraud Detection-Python
 A data analysis project detecting fraudulent credit card transactions using real-world banking data.
-- Identified **card probing behaviour** through zero-value transaction analysis
-- Discovered **Over 98% of fraud occurs under 1000**, consistent with smurfing
-- Visualised fraud patterns by transaction size and time of day
-- **Tech:** Python, Pandas, Matplotlib, Google Colab
--  [View Notebook](https://colab.research.google.com/drive/1-yGf5ifnYMO7QPWuvOZkzSNzPKGrnID0?usp=sharing)
+- Identified **high-risk fraud indicators** including transaction amount, device changes and time-  based patterns
+- Visualised various fraud patterns 
+- **Tech:** Python, Pandas, Matplotlib, Seaborn, Scikit-Learn, Google Colab
+-  [View Notebook](https://colab.research.google.com/drive/1QPzSvszeFgZTE_9TpfVy3u8z2Z6sxiFq?usp=sharing)
 
 ---
 
