@@ -40,7 +40,3 @@ Automates hydraulic calculations (Swamee-Jain  to find the cheapest pipe/tank co
 
 ---
 
-###  The Vogue Vault-HTML/CSS
-A multi-page static website showcasing fashion designers and trends.
-- Semantic HTML5, clean layout, multi-page navigation
-- **Tech:** HTML5, CSS3
